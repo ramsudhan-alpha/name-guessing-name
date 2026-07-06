@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Number guessing game/Number guessing game.vcxproj" Id="8668469e-1cd2-4b95-bd39-aa520cef200a" />
+</Solution>
